@@ -11,7 +11,6 @@ if (len(lst)==0):
     print("list is empty ")
 else:
     x=0
-   
     for i in lst:
         x+=i
         i+=1

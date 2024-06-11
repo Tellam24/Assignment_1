@@ -8,3 +8,4 @@ for num in range(3,31):
                 break
         else:
             print(num)
+ 
